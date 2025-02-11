@@ -1,0 +1,6 @@
+FROM php:apache
+WORKDIR /app
+COPY L2E2/* /app/
+RUN docker-php-ext-install mysqli
+EXPOSE 80
+CMD ["apache2-foreground"]

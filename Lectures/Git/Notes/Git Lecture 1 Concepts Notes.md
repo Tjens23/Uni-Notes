@@ -1,0 +1,72 @@
+---
+tags:
+  - Notes
+links: "[[Git Lecture 1 Concepts]]"
+creation date: 2024-11-10 20:42
+modification date: Sunday 10th November 2024 20:42:32
+semester: 3
+year: 2024
+Lecture: Lectures/Git/Notes
+---
+
+
+---
+# [[Git Lecture 1 Concepts Notes]]
+
+---
+
+
+
+### Version Control
+
+Version control is a critical tool for software development that allows developers to manage and track changes made to their codebase over time. It is a way to collaborate with other developers, keep track of changes, and revert to a previous version if necessary.
+
+### Git: A Popular Version Control System
+
+One of the most popular version control systems is Git, which was created by Linus Torvalds in 2005. Git is a distributed version control system that enables developers to track changes to codebases and collaborate with other developers.
+
+#### Key Features of Git
+
+- **Distributed Architecture**: Every developer has a <mark style="background: #FFB8EBA6;">local copy of the repository</mark>, and changes can be <mark style="background: #FF5582A6;">pushed and pulled between repositories</mark>.
+- **Branching and Merging**: Git allows developers to create <mark style="background: #FFB86CA6;">multiple branches</mark> of a codebase and merge them back into the main codebase when the feature is complete.
+- **Versioning**: Git tracks changes to a codebase over time, enabling developers to <mark style="background: #BBFABBA6;">revert to previous versions</mark> of the codebase if necessary.
+- **Collaboration**: Git allows developers to collaborate on a codebase, making changes and pushing them to the repository for others to review and merge.
+
+### Using Git
+
+To use Git, developers must first initialize a repository. This can be done by running the `git init` command in the root directory of a project. Once a repository has been initialized, developers can start tracking changes to their codebase.
+
+#### Common Git Commands
+
+- `git add`: Add files or changes to the staging area.
+- `git commit`: Commit changes to the repository.
+- `git push`: Push changes to a remote repository.
+- `git pull`: Pull changes from a remote repository.
+- `git branch`: Create, list, or delete branches.
+- `git merge`: Merge changes from one branch into another.
+
+### Git Hosting Services
+
+Developers can also use Git hosting services like GitHub, GitLab, or Bitbucket to store their repositories remotely and collaborate with other developers.
+
+### Branches
+Branches in Git are pointers to specific commits in a repository's history. They represent independent lines of development, allowing you to separate different features, fixes, or experiments into isolated environments. This separation makes it easier to manage changes without affecting the main or other development lines.
+
+### Creating, listing, and switching branches
+- **Creating branches**: To create a new branch, use the `git branch <branch-name>` command. This command creates a new branch pointing to the current commit, but it doesn’t switch the working directory to the new branch.
+- **Listing branches**: To list all the branches in your repository, use the `git branch` command. Add the `-a` flag to show both local and remote branches (`git branch -a`).
+- **Switching branches**: To switch to an existing branch, use the `git checkout <branch-name>` command. This command will update the working directory to reflect the snapshot of the project stored in that branch. In recent versions of Git, the `git switch <branch-name>` command is preferred for switching branches, separating the functionality of checking out files and switching branches.
+
+### Merging changes
+Merging is the process of integrating changes from one branch into another. Use the `git merge <branch-name>` command to merge the changes from `<branch-name>` into the current branch. This will often be used to merge feature branches back into the main branch, like `master` or `main`.
+
+- If the merge is straightforward and there are no conflicting changes, Git will perform a "fast-forward" merge.
+- If there are divergent changes, Git will create a new "merge commit" that combines the changes from the merged branches.
+
+### Resolving conflicts
+Sometimes, when merging branches, Git cannot automatically resolve differences and will report a conflict. This happens when the same lines of code are altered differently in the two branches being merged.
+
+1. **Identify conflicts**: Git marks the file as conflicted and modifies its content to show the conflicting changes from both branches.
+2. **Resolve conflicts**: Open the conflicted files in a text editor or a merge tool and manually resolve the conflicts. This involves editing the files to fix the inconsistencies and deciding what the final code should look like.
+3. **Mark as resolved**: After fixing the conflicts, use `git add <file>` to mark a file as resolved.
+4. **Complete the merge**: Once all conflicts are resolved and marked as such, complete the merge process with `git commit`, which will create a merge commit.

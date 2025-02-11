@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "d6c4637d03c9aba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f5bdd18576c00c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eea93bca60452ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/AI/Notes/AI Lecture 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Lecture 1 Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e842880b3bac6047",
+    "type": "split",
+    "children": [
+      {
+        "id": "7faa162f138bac53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3d9c4c550f9ca9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd15b7c9e49ac477",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "flask",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a16cfca35d6d24dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7095d05959c0a371",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5110321044922
+  },
+  "right": {
+    "id": "7dcb91c75a3768a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0573f0c77a254ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8837a168bb7d2e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 10. Flask Web CentOS Server"
+            }
+          },
+          {
+            "id": "99ec26e8c41d3271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 10. Flask Web CentOS Server"
+            }
+          },
+          {
+            "id": "6fc3d4e5b474eb74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17198e5890d3f845",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming Languages/Python/2. Flask/10. Flask Web CentOS Server.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10. Flask Web CentOS Server"
+            }
+          },
+          {
+            "id": "6461de1442b14953",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d39650f5d38956e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "12b6bb2d60fdeddd",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "145497e3e97557ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "eea93bca60452ee7",
+  "lastOpenFiles": [
+    "Lectures/AI/AI Lecture 1.md",
+    "Lectures/AI/Notes/AI Lecture 1 Notes.md",
+    "Lectures/AI/Notes/Artificial Intelligence Lecture 1 Notes.md",
+    "Lectures/OD/Notes/OD Lecture 4 Notes.md",
+    "Untitled.md",
+    "Lectures/AI/Notes",
+    "Main.md",
+    "Lectures/AI",
+    "Lectures/web-tech/Web tech Lecture 10.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 10 notes.md",
+    "Lectures/Math/Math Lecture 9.md",
+    "Lectures/web-tech/Web tech Lecture 9.md",
+    "Lectures/web-tech/Notes/Web Tech Lecture 9 Notes.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 8 Notes.md",
+    "Lectures/web-tech/Web Tech Lecture 8.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 7 Notes.md",
+    "Lectures/web-tech/Web tech Lecture 7.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 6 Notes.md",
+    "Lectures/web-tech/Web tech Lecture 6.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 5 Notes.md",
+    "Lectures/web-tech/Web tech Lecture 5.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 4 Notes.md",
+    "Lectures/web-tech/Web tech Lecture 4.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 3 Notes.md",
+    "Lectures/web-tech/Web tech Lecture 3.md",
+    "Lectures/web-tech/Notes/Web tech Lecture 2 Notes.md",
+    "Lectures/web-tech/Web tech Lecture 2.md",
+    "Lectures/OD/Pasted image 20241004144112.png",
+    "Lectures/OD/Pasted image 20241004144112 1.png",
+    "Statistics/1. Statistical Inference/{6C21DC9C-BE0E-47C2-92D7-0D14EE00F6CE}.png",
+    "Statistics/1. Statistical Inference",
+    "Statistics",
+    "Lectures/Statistics/Notes",
+    "Lectures/Statistics/Assignments",
+    "Lectures/Statistics/1. Statistical Inference/{F278E985-2659-4652-9CEE-60224877F4BF}.png",
+    "Lectures/Statistics/1. Statistical Inference/{AE7EA282-918B-4796-8F36-1C00CAE2CD27}.png",
+    "Lectures/Statistics/1. Statistical Inference/Pasted image 20241210174923.png",
+    "Lectures/Statistics/1. Statistical Inference",
+    "Lectures/Statistics",
+    "Lectures/OD/Assignments/Main.py",
+    "Lectures/OD/Assignments/DockerfileL7E2",
+    "Statistics/1. Statistical Inference/{AE7EA282-918B-4796-8F36-1C00CAE2CD27}.png",
+    "Statistics/1. Statistical Inference/Pasted image 20241210174923.png",
+    "Statistics/1. Statistical Inference/{F278E985-2659-4652-9CEE-60224877F4BF}.png",
+    "Lectures/OD/Pasted image 20241006135754.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
