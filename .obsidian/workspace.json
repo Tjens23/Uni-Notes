@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Math/Notes/Math Lecture 6 Notes.md",
+                "file": "Lectures/AI/Notes/AI Lecture 2 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Lecture 6 Notes"
+              "title": "AI Lecture 2 Notes"
             }
           }
         ]
@@ -223,8 +223,10 @@
   },
   "active": "9d0efe1f43440e64",
   "lastOpenFiles": [
-    "Lectures/Math/Notes/Math Lecture 9 Notes.md",
+    "Lectures/AI/AI Lecture 2.md",
+    "Lectures/Math/Notes/Factoring.md",
     "Lectures/Math/Notes/Math Lecture 6 Notes.md",
+    "Lectures/Math/Notes/Math Lecture 9 Notes.md",
     "Lectures/Math/Notes/Math Lecture 5 Notes.md",
     "Lectures/Math/Notes/Math Lecture 4 Notes.md",
     "Lectures/Math/Notes/Math Lecture 3 Notes.md",
@@ -232,7 +234,6 @@
     "Lectures/Math/Notes/Math Lecture 1 Notes.md",
     "Lectures/Math/2024-11-04BA-MAT1_example_exam_set.pdf",
     "Lectures/Math/Math Lecture 1.md",
-    "Lectures/AI/AI Lecture 2.md",
     "Untitled.md",
     "Lectures/AI/Notes/Untitled 1.md",
     "Lectures/AI/Notes/AI Lecture 2 Notes.md",
@@ -251,7 +252,6 @@
     "Lectures/web-tech/Notes/Web tech Lecture 8 Notes.md",
     "Lectures/web-tech/Web Tech Lecture 8.md",
     "Lectures/web-tech/Notes/Web tech Lecture 7 Notes.md",
-    "Lectures/web-tech/Web tech Lecture 7.md",
     "Lectures/OD/Pasted image 20241004144112.png",
     "Lectures/OD/Pasted image 20241004144112 1.png",
     "Statistics/1. Statistical Inference/{6C21DC9C-BE0E-47C2-92D7-0D14EE00F6CE}.png",
