@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ee50d56baaefc97",
+        "id": "f0315e566d380f44",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0efe1f43440e64",
+            "id": "9f817955109f1344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Math/Notes/Math Lecture 6 Notes.md",
+                "file": "Mat Exam chatgpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Lecture 6 Notes"
+              "title": "Mat Exam chatgpt"
             }
           }
         ]
@@ -221,42 +221,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d0efe1f43440e64",
+  "active": "9f817955109f1344",
   "lastOpenFiles": [
-    "Lectures/Math/Notes/Math Lecture 9 Notes.md",
-    "Lectures/Math/Notes/Math Lecture 6 Notes.md",
-    "Lectures/Math/Notes/Math Lecture 5 Notes.md",
+    "Statistics/1. Statistical Inference/Pasted image 20250217083346.png",
+    "Statistics/1. Statistical Inference/Pasted image 20250217081905.png",
+    "Statistics/1. Statistical Inference",
+    "Statistics",
+    "Main.md",
+    "Lectures/Math/Assignments/Matematik og Indledende Programmering 27 feb 2024.md",
+    "Lectures/Math/Assignments/Matematik og Indledende Programmering 4. januar 2024.md",
     "Lectures/Math/Notes/Math Lecture 4 Notes.md",
     "Lectures/Math/Notes/Math Lecture 3 Notes.md",
     "Lectures/Math/Notes/Math Lecture 2 Notes.md",
-    "Lectures/Math/Notes/Math Lecture 1 Notes.md",
-    "Lectures/Math/2024-11-04BA-MAT1_example_exam_set.pdf",
-    "Lectures/Math/Math Lecture 1.md",
-    "Lectures/AI/AI Lecture 2.md",
-    "Untitled.md",
-    "Lectures/AI/Notes/Untitled 1.md",
+    "Use later.md",
+    "Mat Exam chatgpt.md",
     "Lectures/AI/Notes/AI Lecture 2 Notes.md",
-    "Lectures/AI/Notes/AI Lecture 1 Notes.md",
     "Lectures/AI/AI Lecture 1.md",
+    "Lectures/AI/AI Lecture 2.md",
+    "Lectures/Math/Math Lecture 6.md",
+    "Lectures/Math/Math Lecture 9.md",
+    "Lectures/Math/2024-11-04BA-MAT1_example_exam_set.pdf",
+    "Lectures/Math/Notes/Math Lecture 6 Notes.md",
+    "Lectures/Math/Notes/Math Lecture 9 Notes.md",
+    "Lectures/Math/Notes/Math Lecture 5 Notes.md",
+    "Lectures/Math/Notes/Math Lecture 1 Notes.md",
+    "Lectures/Math/Math Lecture 1.md",
+    "Lectures/AI/Notes/Untitled 1.md",
+    "Lectures/AI/Notes/AI Lecture 1 Notes.md",
     "Lectures/AI/Notes/Artificial Intelligence Lecture 1 Notes.md",
     "Lectures/OD/Notes/OD Lecture 4 Notes.md",
     "Lectures/AI/Notes",
-    "Main.md",
     "Lectures/AI",
     "Lectures/web-tech/Web tech Lecture 10.md",
     "Lectures/web-tech/Notes/Web tech Lecture 10 notes.md",
-    "Lectures/Math/Math Lecture 9.md",
     "Lectures/web-tech/Web tech Lecture 9.md",
-    "Lectures/web-tech/Notes/Web Tech Lecture 9 Notes.md",
-    "Lectures/web-tech/Notes/Web tech Lecture 8 Notes.md",
-    "Lectures/web-tech/Web Tech Lecture 8.md",
-    "Lectures/web-tech/Notes/Web tech Lecture 7 Notes.md",
-    "Lectures/web-tech/Web tech Lecture 7.md",
     "Lectures/OD/Pasted image 20241004144112.png",
     "Lectures/OD/Pasted image 20241004144112 1.png",
     "Statistics/1. Statistical Inference/{6C21DC9C-BE0E-47C2-92D7-0D14EE00F6CE}.png",
-    "Statistics/1. Statistical Inference",
-    "Statistics",
     "Lectures/Statistics/Notes",
     "Lectures/Statistics/Assignments",
     "Lectures/Statistics/1. Statistical Inference/{F278E985-2659-4652-9CEE-60224877F4BF}.png",
@@ -268,7 +269,6 @@
     "Statistics/1. Statistical Inference/{AE7EA282-918B-4796-8F36-1C00CAE2CD27}.png",
     "Statistics/1. Statistical Inference/Pasted image 20241210174923.png",
     "Statistics/1. Statistical Inference/{F278E985-2659-4652-9CEE-60224877F4BF}.png",
-    "Lectures/OD/Pasted image 20241006135754.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
