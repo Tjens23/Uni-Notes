@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "bb26a46da81e3e99",
+    "type": "split",
+    "children": [
+      {
+        "id": "8693180df93f245a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "781521f0658057ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/AI/Notes/AI Lecture 12 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Lecture 12 Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "842d42dfe554edd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1530cc4f1f1fdfc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "681496ca520b56cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25457fb40ab643c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d331fdb1c4f85e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb281582ea1b740d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4caba5ecec0727d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db73546a2e73dc1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main"
+            }
+          },
+          {
+            "id": "104fec3519b18e61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main"
+            }
+          },
+          {
+            "id": "78dbde4011d5d2a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a7618ca69a7e089",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main"
+            }
+          },
+          {
+            "id": "daaec21c9cd193dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "781521f0658057ec",
+  "lastOpenFiles": [
+    "Lectures/AI/Notes/AI Lecture 11 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 10 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 9 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 8 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 7 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 6 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 5 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 4 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 3 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 2 Notes.md",
+    "Lectures/AI/Notes/AI Lecture 1 Notes.md",
+    "Lectures/AI/AI Lecture 1.md",
+    "Lectures/AI/AI Lecture 2.md",
+    "Lectures/AI/AI Lecture 3.md",
+    "Lectures/AI/Notes/AI Lecture 12 Notes.md",
+    "Lectures/AI/AI Lecture 10.md",
+    "Lectures/AI/AI Lecture 12.md",
+    "Lectures/AI/AI Lecture 11.md",
+    "frame_61.webp",
+    "Lectures/AI/AI Lecture 8.md",
+    "Lectures/AI/AI Lecture 9.md",
+    "<% tp.date.now(\"YYYY-MM-DD\") %>.md",
+    "Lectures/AI/AI Lecture 7.md",
+    "Lectures/AI/AI Lecture 6.md",
+    "Lectures/AI/AI Lecture 5.md",
+    "Lectures/AI/AI Lecture 4.md"
+  ]
+}
