@@ -348,7 +348,7 @@ def print_marginal_probabilities(network):
     for variable in network.get_variables():
         print("    {}".format(variable.get_name()))
         for assignment in variable.get_assignments():
-            print("        {}: {:f}".format(
+            print("{}: {:f}".format(
                 assignment,
                 variable.get_marginal_probability(assignment))
             )
