@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429.5
   },
   "right": {
     "id": "fb281582ea1b740d",
@@ -183,8 +183,12 @@
   },
   "active": "781521f0658057ec",
   "lastOpenFiles": [
-    "Lectures/AI/Lab/Lab 9/Lab 09.md",
+    "Lectures/Discrete math and Algorithms/Asymptotic Algorithm Runtime Analysis.md",
+    "Lectures/Discrete math and Algorithms/Augmented Binary Search Trees.md",
+    "Lectures/Discrete math and Algorithms/Dictionaries.md",
+    "Lectures/Discrete math and Algorithms/Sammenhængskomponenter i Grafer (Connected Components in Graphs).md",
     "Lectures/Discrete math and Algorithms/Algorithm Analysis.md",
+    "Lectures/AI/Lab/Lab 9/Lab 09.md",
     "Lectures/Discrete math and Algorithms/Discrete math and algorithms Lecture 1.md",
     "Lectures/AI/Lab/Lab 8/Lab 08.md",
     "Lectures/AI/Lab/Lab 03/Astar.py",
@@ -211,10 +215,6 @@
     "Lectures/AI/AI Lecture 3.md",
     "Lectures/AI/AI Lecture 10.md",
     "Lectures/AI/AI Lecture 12.md",
-    "Lectures/AI/AI Lecture 11.md",
-    "frame_61.webp",
-    "Lectures/AI/AI Lecture 8.md",
-    "Lectures/AI/AI Lecture 9.md",
-    "<% tp.date.now(\"YYYY-MM-DD\") %>.md"
+    "frame_61.webp"
   ]
 }
