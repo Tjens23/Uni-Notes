@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Discrete math and Algorithms/Algorithm Analysis.md",
+                "file": "Lectures/Discrete math and Algorithms/Divide-and-Conquer Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm Analysis"
+              "title": "Divide-and-Conquer Algorithms"
             }
           }
         ]
@@ -183,11 +183,12 @@
   },
   "active": "781521f0658057ec",
   "lastOpenFiles": [
+    "Lectures/Discrete math and Algorithms/Algorithm Analysis.md",
+    "Lectures/Discrete math and Algorithms/Divide-and-Conquer Algorithms.md",
     "Lectures/Discrete math and Algorithms/Asymptotic Algorithm Runtime Analysis.md",
     "Lectures/Discrete math and Algorithms/Augmented Binary Search Trees.md",
     "Lectures/Discrete math and Algorithms/Dictionaries.md",
     "Lectures/Discrete math and Algorithms/Sammenhængskomponenter i Grafer (Connected Components in Graphs).md",
-    "Lectures/Discrete math and Algorithms/Algorithm Analysis.md",
     "Lectures/AI/Lab/Lab 9/Lab 09.md",
     "Lectures/Discrete math and Algorithms/Discrete math and algorithms Lecture 1.md",
     "Lectures/AI/Lab/Lab 8/Lab 08.md",
@@ -214,7 +215,6 @@
     "Lectures/AI/AI Lecture 2.md",
     "Lectures/AI/AI Lecture 3.md",
     "Lectures/AI/AI Lecture 10.md",
-    "Lectures/AI/AI Lecture 12.md",
     "frame_61.webp"
   ]
 }
