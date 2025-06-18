@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8693180df93f245a",
+        "id": "18ad74a83ef6723c",
         "type": "tabs",
         "children": [
           {
-            "id": "781521f0658057ec",
+            "id": "739e168580f3599b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lectures/Discrete math and Algorithms/Graph Traversal and Sorting Techniques.md",
-                "mode": "source",
-                "source": false
+                "file": "Lectures/Discrete math and Algorithms/MASTER THEOREM NOTES.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Graph Traversal and Sorting Techniques"
+              "icon": "lucide-file-text",
+              "title": "MASTER THEOREM NOTES"
             }
           }
         ]
@@ -181,29 +179,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "781521f0658057ec",
+  "active": "739e168580f3599b",
   "lastOpenFiles": [
-    "Lectures/Discrete math and Algorithms/GreedyAlg.pdf",
-    "Lectures/Discrete math and Algorithms/Invariants.pdf",
-    "Lectures/Discrete math and Algorithms/Maximum Sum Problem and Algorithms.pdf",
-    "Lectures/Discrete math and Algorithms/Minimum Spanning Tree Algorithms and Properties.pdf",
-    "Lectures/Discrete math and Algorithms/Priority Queues and Implementation Methods.pdf",
+    "Lectures/Discrete math and Algorithms/Divide-and-Conquer Algorithms.md",
+    "Lectures/Discrete math and Algorithms/MASTER THEOREM NOTES.pdf",
+    "Lectures/Discrete math and Algorithms/MC test 1_annotated.pdf",
+    "Lectures/Discrete math and Algorithms/Counting sort.md",
+    "Lectures/Discrete math and Algorithms/Min-Heap Operations.md",
+    "Lectures/Discrete math and Algorithms/Asymptotic Algorithm Runtime Analysis.md",
     "Lectures/Discrete math and Algorithms/Algorithms for Swapping Puzzles.pdf",
     "Lectures/Discrete math and Algorithms/Algorithms and Data Structures Course.pdf",
-    "Lectures/Discrete math and Algorithms/Shortest Path Algorithms Overview.pdf",
-    "Lectures/Discrete math and Algorithms/sorting In Linear Time Slides.pdf",
-    "Lectures/Discrete math and Algorithms/Fundamental Sorting Algorithms Overview.pdf",
-    "Lectures/Discrete math and Algorithms/Matrix Multiplication and Optimization Techniques.pdf",
-    "{BB86BDBC-88D9-40CC-B535-500D4A4BB1B7}.png",
     "Lectures/Discrete math and Algorithms/Augmented Binary Search Trees.md",
+    "Lectures/Discrete math and Algorithms/Divide and Conquer intro.md",
+    "Lectures/Discrete math and Algorithms/Dynamic Programming.pdf",
+    "Lectures/Discrete math and Algorithms/Fundamental Sorting Algorithms Overview.pdf",
     "Lectures/Discrete math and Algorithms/Graph Traversal and Sorting Techniques.md",
+    "Lectures/Discrete math and Algorithms/Algorithm Analysis.md",
+    "Lectures/Discrete math and Algorithms/Asymptotisk notation i Markdown (Obsidian).md",
+    "Lectures/Discrete math and Algorithms/Matrix Multiplication and Optimization Techniques.pdf",
+    "Lectures/Discrete math and Algorithms/Maximum Sum Problem and Algorithms.pdf",
+    "Lectures/Discrete math and Algorithms/GreedyAlg.pdf",
+    "Lectures/Discrete math and Algorithms/Priority Queues and Implementation Methods.pdf",
+    "Lectures/Discrete math and Algorithms/Sammenhængskomponenter i Grafer (Connected Components in Graphs).md",
+    "Lectures/Discrete math and Algorithms/SE4-DMAD Eksamen 2021.md",
+    "{5A94016F-2A9A-40DF-9C12-0EE7B2418EB2}.png",
+    "{BB86BDBC-88D9-40CC-B535-500D4A4BB1B7}.png",
     "Lectures/Discrete math and Algorithms/Dictionaries.md",
     "Lectures/Discrete math and Algorithms/Disjoint Sets and Algorithms.md",
-    "Lectures/Discrete math and Algorithms/Divide and Conquer intro.md",
-    "Lectures/Discrete math and Algorithms/Divide-and-Conquer Algorithms.md",
-    "Lectures/Discrete math and Algorithms/Sammenhængskomponenter i Grafer (Connected Components in Graphs).md",
-    "Lectures/Discrete math and Algorithms/Algorithm Analysis.md",
-    "Lectures/Discrete math and Algorithms/Asymptotic Algorithm Runtime Analysis.md",
     "Lectures/AI/Lab/Lab 9/Lab 09.md",
     "Lectures/Discrete math and Algorithms/Discrete math and algorithms Lecture 1.md",
     "Lectures/AI/Lab/Lab 8/Lab 08.md",
@@ -216,10 +218,6 @@
     "Lectures/AI/Notes/AI Lecture 12 Notes.md",
     "Lectures/AI/Notes/AI Lecture 6 Notes.md",
     "Lectures/AI/Notes/AI Lecture 5 Notes.md",
-    "Lectures/AI/Notes/AI Lecture 4 Notes.md",
-    "Lectures/AI/Notes/AI Lecture 3 Notes.md",
-    "Lectures/AI/Notes/AI Lecture 2 Notes.md",
-    "Lectures/AI/Notes/AI Lecture 1 Notes.md",
     "frame_61.webp"
   ]
 }

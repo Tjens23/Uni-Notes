@@ -77,7 +77,7 @@ To traverse the entire graph, a global approach can be used:
 
 ![Text boxes containing code written in a programming language, likely pseudocode.](https://api-turbo.ai/7bc6453d-d1af-489b-a468-47dedf45fbd2/57cfdca7-f55c-4c67-8ab9-75d336bd31a2.jpeg)
 
-If the edge selection takes O(1)O(1) time, the total running time is O(n+m)O(n+m).
+If the edge selection takes O(1) time, the total running time is O(n+m).
 
 Another theorem states that if there is a path from `s` to `v` consisting of white nodes (including `v`) at the start of a call to `GenericGraphTraversal2(s)`, then `v` will be black when `GenericGraphTraversal2(s)` stops.
 
